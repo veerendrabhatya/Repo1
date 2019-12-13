@@ -1,0 +1,13 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 02A8-3C57
+
+ Directory of C:\ProjectReleted\Mindtree Internal\Technology\Git
+
+12/13/2019  06:33 PM    <DIR>          .
+12/13/2019  06:33 PM    <DIR>          ..
+12/13/2019  02:50 PM                46 sample.txt
+12/13/2019  02:50 PM                43 sample1.txt
+12/13/2019  06:33 PM                 0 testfile.txt
+12/13/2019  06:19 PM               474 veeru.txt
+               4 File(s)            563 bytes
+               2 Dir(s)  151,524,753,408 bytes free
